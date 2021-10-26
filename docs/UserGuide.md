@@ -51,7 +51,7 @@ The user interface of BobTheBistroBoss is divided into 2 tabs.
 #### 2.2.1 Home Tab
 Displays [orders](#33-order), [client bookmarks](#31-client-bookmarks) and [recipe bookmarks](#34-recipe-bookmarks).
 
-![Home tab](images/product-screenshots/general/HomeTab.png)
+![Home tab](images/product-screenshots/general/HomeTab.png){:.image}
 
 Fig 1. Home tab
 {:.caption}
